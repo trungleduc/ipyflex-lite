@@ -1,0 +1,36 @@
+{
+  "jupyter-config-data": {
+    "appName": "JupyterLite",
+    "appUrl": "./lab",
+    "appVersion": "0.1.0-beta.1",
+    "baseUrl": "./",
+    "faviconUrl": "./lab/favicon.ico",
+    "federated_extensions": [
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
+        "name": "@jupyter-widgets/jupyterlab-manager"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.c78d34b36abe05fb4a1b.js",
+        "name": "ipyflex"
+      }
+    ],
+    "fullLabextensionsUrl": "./extensions",
+    "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
+    "fullStaticUrl": "./build",
+    "licensesUrl": "./lab/api/licenses",
+    "litePluginSettings": {
+      "@jupyterlite/pyolite-kernel-extension:kernel": {
+        "pipliteUrls": [
+          "./pypi/all.json?sha256=4370b3273c9cca62da06f97ab9dc905dd1464dd01e14370860b6da2e78e3363b"
+        ]
+      }
+    },
+    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
+  },
+  "jupyter-lite-schema-version": 0
+}

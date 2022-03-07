@@ -1,0 +1,28 @@
+{
+  "ipyflex": {
+    "releases": {
+      "0.2.2": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "4dcf5218a078d22d9262bef001844778",
+            "sha256": "bc33f32f8e896a34a417b2260e24efa15ac7baa978f84f1cecc168ddc7a47c1c"
+          },
+          "downloads": -1,
+          "filename": "ipyflex-0.2.2-py2.py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "4dcf5218a078d22d9262bef001844778",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.6",
+          "size": 1321203,
+          "upload_time": "2022-03-02T08:22:14Z",
+          "upload_time_iso_8601": "2022-03-02T08:22:14Z",
+          "url": "./ipyflex-0.2.2-py2.py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}
